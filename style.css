@@ -1,4 +1,12 @@
 body {
     background-color: #383D58;
+    color: white;
     }
 
+h2 {
+	color: yellow;
+}
+
+h3 {
+	color: red;
+}
